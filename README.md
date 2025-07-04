@@ -32,7 +32,7 @@ I'm a passionate **WordPress plugin developer**, **Full Stack Developer**, and *
 - 💼 [Portfolio Website](#) *(Coming Soon!)*
 - 📧 **Email:** abhishekkushwahaak0121@gmail.com
 - 🐦 [Twitter](#)
-- 💻 [LinkedIn](#)
+- 💻 [LinkedIn](https://www.linkedin.com/in/abhishek-kushwaha-5a3a49302/)
 - 🏗️ [GitHub](https://github.com/professor0121/)
 
 ### 🌟 Support My Work
